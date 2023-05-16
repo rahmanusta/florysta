@@ -1,0 +1,42 @@
+adiantum - Adiantum
+anturium - Anthurium
+areka - Areca
+aspidistra - Aspidistra
+barwinek - Vinca
+bergenia - Bergenia
+bluszcz - Hedera
+cantedeskia - Zantedeschia
+chamedora - Chamaedorea
+czysciec   - Stachys
+daktylowiec - Phoenix
+difenbachia - Dieffenbachia
+dracena (smokowiec) - Dracena
+eukaliptus - Eucalyptus
+fikus (figowiec)  - Ficus
+filodendron - Philodendron
+funkia - Hosta
+galaks - Galax
+kariota - Caryota
+kodieum (tzw. kroton) - Codiaeum
+kordylina - Cordyline
+laur - Laurus
+leukadendron - Leucadendron
+liwistona - Livistona
+maranta - Maranta
+nefrolepis - Nephrolepis
+niedzwiedzia trawa - Xerophyllum tenar
+orliczka - Pteris
+papirus - Cyperus
+paprotnik - Cyrtomium
+pitosporum - Pittosporum
+ruszczyk - Ruscus
+salal - Gaultheria
+stalowa trawa - Xanthorrhoea australis
+skrzydlokwiat - Spatiphyllum
+szeflera - Schefflera
+szparag - Asparagus
+tawulka - Astilbe
+trawa pampasowa - Cortaderia selloana
+zielistka - Chlorophytum
+zroslicha (syngonium) - Syngonium
+zwartnica - Hippeastrum
